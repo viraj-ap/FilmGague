@@ -30,7 +30,6 @@ Add database records
 
 ```
 use the provided movies.json file to include records in you MongoDB database.
-
 ```
 
 ### for backend
