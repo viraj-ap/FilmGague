@@ -16,7 +16,7 @@ Clone the project
 Install dependencies
 
 ```bash
-  npm install or npm i
+  npm install 
 ```
 
 Start the server
